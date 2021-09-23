@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Verodavvero
+- 👀 I’m interested in data science
